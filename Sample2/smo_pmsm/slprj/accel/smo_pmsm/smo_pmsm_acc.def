@@ -1,0 +1,1 @@
+LIBRARY ../../../smo_pmsm_acc.mexw64 EXPORTS mexFunction 
